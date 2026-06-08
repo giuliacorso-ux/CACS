@@ -9,7 +9,7 @@ from CNKI database according to PRISMA 2020 guidelines.
 Input: CSV file exported from CNKI (semicolon-separated)
 Output: Screened articles with thematic coding, exclusion reasons, and summary statistics
 
-Author: Claude (Anthropic)
+Author: Claude (Anthropic)-manually modified
 Date: April 2026
 """
 
